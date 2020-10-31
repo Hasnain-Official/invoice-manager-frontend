@@ -1,0 +1,8 @@
+.submit-btn {
+	background: #00A8FF!important;
+	color: #fff!important;
+}
+.close-btn {
+	float: right;
+	cursor: pointer;
+}
